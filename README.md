@@ -7,6 +7,20 @@ terminal and a deployable PostgreSQL setup.
 > Educational software only. This project is not a production banking platform
 > and does not process real customer data.
 
+## Live demo
+
+- **Application:** https://neon-ledger-ui.onrender.com
+- **API health:** https://neon-ledger-api.onrender.com/actuator/health
+
+Demo credentials:
+
+```text
+Username: demo
+Password: NeonDemo-2026!
+```
+
+The free backend may take up to one minute to wake up after a period of inactivity.
+
 ## Why I built it
 
 I wanted to practise more than basic CRUD operations, so I chose money
