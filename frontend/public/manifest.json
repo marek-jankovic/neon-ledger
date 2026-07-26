@@ -1,0 +1,9 @@
+{
+  "short_name": "Neon Ledger",
+  "name": "Neon Ledger | District 01",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#050505"
+}
